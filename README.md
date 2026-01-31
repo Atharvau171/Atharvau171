@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @Atharvau171
+- 👋 Hi, I’m Atharva
 - 👀 I’m interested in programing
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ai, ml projects
-- 📫 How to reach me Check out Atharva Uttarwar’s profile on LinkedIn https://in.linkedin.com/in/atharva-uttarwar-1706441ba
-- 😄 Pronouns:
-- ⚡ Fun fact: ...
+- 🌱 I’m currently learning JAVA , Spring-Boot 
+- 💞️ I’m looking to collaborate on Springboot projects
+- 😄 Pronouns: Stiving for perfection
+- ⚡ Fun fact: Want to learn Latin but it is a dead language
 
 <!---
 Atharvau171/Atharvau171 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
