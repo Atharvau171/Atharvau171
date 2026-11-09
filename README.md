@@ -2,7 +2,7 @@
 - 👀 I’m interested in programing
 - 🌱 I’m currently learning JAVA , Spring-Boot 
 - 💞️ I’m looking to collaborate on Springboot projects
-- 😄 Pronouns: Stiving for perfection
+- 😄 Pronouns: Striving for perfection
 - ⚡ Fun fact: Want to learn Latin but it is a dead language
 
 <!---
